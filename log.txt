@@ -1756,10 +1756,6 @@ diff --git a/.DS_Store b/.DS_Store
 new file mode 100644
 index 0000000..171e489
 Binary files /dev/null and b/.DS_Store differ
-diff --git a/.README.md.swp b/.README.md.swp
-new file mode 100644
-index 0000000..5e9ed2c
-Binary files /dev/null and b/.README.md.swp differ
 diff --git a/.ipynb_checkpoints/lec02-checkpoint.ipynb b/.ipynb_checkpoints/lec02-checkpoint.ipynb
 new file mode 100644
 index 0000000..7643bc4
