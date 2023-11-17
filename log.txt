@@ -3435,6 +3435,7 @@ index 31bc9f2..a24660f 100644
 @@ -1,2 +1,2 @@
  # DSC180A-Methodology-4
 -Benjamin Xue
+-bxue@ucsd.edu
 \ No newline at end of file
 +Benjamin Xue and Chenyang Dong
 \ No newline at end of file
